@@ -1,0 +1,7 @@
+﻿  Matrix4x3.cpp
+e:\c++project\3d游戏数学基础\欧拉角与四元数\欧拉角与四元数\vector3.h(69): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\c++project\3d游戏数学基础\欧拉角与四元数\欧拉角与四元数\vector3.h(79): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\c++project\3d游戏数学基础\欧拉角与四元数\欧拉角与四元数\vector3.h(95): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+e:\c++project\3d游戏数学基础\欧拉角与四元数\欧拉角与四元数\mathutil.h(20): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\c++project\3d游戏数学基础\欧拉角与四元数\欧拉角与四元数\mathutil.h(21): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\c++project\3d游戏数学基础\欧拉角与四元数\欧拉角与四元数\matrix4x3.cpp(281): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
