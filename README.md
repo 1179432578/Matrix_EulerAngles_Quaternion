@@ -28,6 +28,11 @@ q-1 = q*/|| q ||
 使用四元数使点p绕n旋转：
 1.3D点p（x,y,z）扩展到齐次坐标p（0,x, y, z）
 2.执行p' = qpq-1  
+
+如何获取一个向量v1转到v2向量的四元数：  
+这个问题的解一定不是单一的，求最短弧即可.  x先归一化v1,v2向量，将v1Xv2作为旋转轴，v1,v2点积结果就是cos(theta)，  
+利用cos(theta) = 2*cos(theta/2)^2-1即可求出cos(theta/2).  
+https://stackoverflow.com/questions/1171849/finding-quaternion-representing-the-rotation-from-one-vector-to-another#  
   
 四元数乘法连接多次旋转：  
 (四元数乘积的逆等于各个四元数的逆以相反的顺序相乘)  
